@@ -1,0 +1,20 @@
+{
+  "name": "cps",
+  "version": "1.0.0",
+  "description": "Addition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "cps": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bangquangtran/sum-bangquangtran"
+  },
+  "author": "cryptopunkstar",
+  "license": "MIT"
+}
