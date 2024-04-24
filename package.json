@@ -1,5 +1,5 @@
 {
-  "name": "abde383940",
+  "name": "abderahimov",
   "version": "1.0.0",
   "description": "Addition",
   "main": "index.js",
@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abde383940/abde383940"
+    "url": "https://github.com/abde383940/abderahimov"
   },
-  "author": "abde383940",
+  "author": "abderahimov",
   "license": "MIT"
 }
